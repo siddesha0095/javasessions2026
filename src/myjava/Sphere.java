@@ -12,6 +12,7 @@ public class Sphere {
 		else
 		{
 			System.out.println("Diamter is negative PAss correct val");
+			System.exit(0);
 		}
 	}
 
@@ -31,6 +32,7 @@ public class Sphere {
 		else
 		{
 			System.out.println("Diamter is negative PAss correct val");
+			System.exit(0);
 		}
 	}
 
